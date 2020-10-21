@@ -1,11 +1,10 @@
 # MobileShop
 > A static website of a mobile devices store
-# Introduction
 
 ![](https://img.shields.io/badge/license-MIT-red)
 ![](https://img.shields.io/badge/version-1.0-red)
 
-This is a static website of mobile devices store.
+
 # Screenshots
 > Home Page
 
