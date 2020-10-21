@@ -19,7 +19,7 @@ This is a static website of mobile devices store.
 
 ![](screenshots/screenshot3.png)
 
-# Download:
+# Download
 
 ```bash
 git clone https://github.com/HamzJERDOUJ/MobileShop.git
@@ -31,9 +31,6 @@ Contributions are always **welcome and recommended**! Here is how:
 
 - Fork the repository
 - Clone to your machine
-```bash
-git clone https://github.com/HamzJERDOUJ/MobileShop.git
-```
 - Create a new branch
 - Make your changes
 - Create a pull request
